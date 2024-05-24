@@ -1,0 +1,5 @@
+# cahce
+__pycache__/
+
+# environment
+.env
